@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Тестовая страничка</title>
+</head>
+
+<body>
+  
+  <img src="https://s0.rbk.ru/v6_top_pics/resized/1440xH/media/img/0/00/756139980396000.jpg"
+   alt="Здесь будет важная картинка">
+
+</body>
+</html>
